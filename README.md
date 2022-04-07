@@ -8,6 +8,8 @@ This visualizer follows a series of specific steps that allow for the gradual pl
 - Repeat the last step (any amount of times).
 
 Following this rules will result in an image such as this:
+
+
 ![Alt Text](https://i.imgur.com/rTNzFul.gif)
 
 
