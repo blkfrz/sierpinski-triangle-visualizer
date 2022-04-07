@@ -20,7 +20,7 @@ Following this rules will result in an image such as this:
 - SPACE - Hold it down to progress. Won't do anything on automatic mode.
 - UP ARROW - Increse the tick speed, 5 by 5 to a maximum of 5000. 
 - DOWN ARROW - Decrease the tick speed, 5 by 5 to a minimum of 10.
-
+- TAB - Toggles the menu.
 
 
 ## Requirements
